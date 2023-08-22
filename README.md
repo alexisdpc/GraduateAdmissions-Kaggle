@@ -6,4 +6,5 @@ We use tha Kaggle dataset: https://www.kaggle.com/datasets/mohansacharya/graduat
 The dataset contains several parameters which are considered important during the application for Masters Programs.\
 We construct a Neural Network that predicts the probability of getting admitted.
 
-![image](https://github.com/alexisdpc/GraduateAdmissions-Kaggle/assets/124795834/3fdb0515-40be-4ab7-899a-e83a24894f21)
+![image](https://github.com/alexisdpc/GraduateAdmissions-Kaggle/assets/124795834/9a4905e6-7914-431d-a6a8-b4148b61c933)
+
