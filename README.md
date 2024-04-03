@@ -3,7 +3,8 @@
 This is a basic example on how to implement Neural Networks for predictions. \
 We use tha Kaggle dataset: https://www.kaggle.com/datasets/mohansacharya/graduate-admissions
 
-The dataset contains several parameters which are considered important during the application for Masters Programs. We construct a Neural Network that predicts the probability of getting admitted.
+The dataset contains several parameters which are considered important during the application for Masters Programs. \
+We construct a Neural Network that predicts the probability of getting admitted.
 
 We optimize the learning rate by selecting the value that minimizes the loss:
 
