@@ -6,7 +6,7 @@ We use tha Kaggle dataset: https://www.kaggle.com/datasets/mohansacharya/graduat
 The dataset contains several parameters which are considered important during the application for Masters Programs. \
 We construct a Neural Network that predicts the probability of getting admitted.
 
-We optimize the learning rate by selecting the value that minimizes the loss
+We optimize the learning rate by selecting the value that minimizes the loss:
 
 ![image](https://github.com/alexisdpc/GraduateAdmissions-Kaggle/assets/124795834/adca4247-36a5-42e2-a7a4-10f3d0decf17)
 
