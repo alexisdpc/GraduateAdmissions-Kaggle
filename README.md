@@ -1,5 +1,4 @@
 ## Predicting Graduate Admissions using Deep Learning
-
 This is a basic example on how to implement Neural Networks for predictions. \
 We use tha Kaggle dataset: https://www.kaggle.com/datasets/mohansacharya/graduate-admissions
 
